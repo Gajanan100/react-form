@@ -1,0 +1,54 @@
+
+form 
+{
+    border: 2px solid black;
+}
+
+form
+{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: fit-content;
+    background-color: turquoise;
+
+}
+
+ label
+{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+input
+{
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 7cm;
+}
+  
+button
+{
+    margin-top: 7px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 6px;
+    background-color:green;
+}
+
+.spanfield
+{
+    margin: 0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+    width: fit-content;
+}
