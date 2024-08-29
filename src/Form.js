@@ -22,7 +22,7 @@ function onSubmit(e)
       <div>
            
         <form onSubmit={onSubmit} >
-            <h4>Prescription form</h4>
+            <h4>Prescription forms</h4>
             <label htmlFor="firstName">firstName:- </label>
             <input onChange={onChange} type='text' id='firstName' name='firstName'></input>
             <br/>
